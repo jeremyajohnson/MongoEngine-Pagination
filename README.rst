@@ -18,7 +18,7 @@ Usage
 
 Basic usage is easy, just use the import the Document class and use it as base for your objects::
 
-    from mongoenginepagination import Document
+    from mongoenginepagination.pagination import Document
 
     class Todo(Document):
     	pass
